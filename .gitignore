@@ -1,0 +1,11 @@
+*.zip
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.toc
+*.out
+.DS_Store
+.vscode
+*.mp4
