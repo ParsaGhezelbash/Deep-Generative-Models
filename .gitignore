@@ -9,3 +9,5 @@
 .DS_Store
 .vscode
 *.mp4
+*.pth
+*.wav
